@@ -1,0 +1,7 @@
+name: CMDEdit
+main: net.ryanhecht.CMDEdit.Main
+version: 0.1
+description: Edit command blocks in WE selections
+author: RyanHecht_
+commands:
+  cmdedit:
